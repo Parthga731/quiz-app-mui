@@ -1,0 +1,150 @@
+{
+  "english": [
+    {
+      "id": 0,
+      "questionNo": 1,
+      "question": "What of the following is used in React.js to increase performance?",
+      "options": [
+        "Original DOM",
+        "Virtual DOM",
+        "Both A and B.",
+        "None of the above."
+      ],
+      "answerValue": [],
+      "isAnswer": false,
+      "answer": "Virtual DOM"
+    },
+    {
+      "id": 1,
+      "questionNo": 2,
+      "question": "React merges the object you provide into the current state using setState().",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answerValue": [],
+      "isAnswer": false,
+      "answer": "True"
+    },
+    {
+      "id": 2,
+      "questionNo": 3,
+      "question": "React.js was Initially released in................",
+      "options": [
+        "May 29,2013",
+        "April 29,2013",
+        "June 29,2013",
+        "May 29,2014"
+      ],
+      "answerValue": [],
+      "isAnswer": false,
+      "answer": "May 29,2013"
+    },
+    {
+      "id": 3,
+      "questionNo": 4,
+      "question": " Which of the following is the correct data flow sequence of flux concept?",
+      "options": [
+        "Dispatcher->Action->Store->View",
+        "Action->Dispatcher->View->Store",
+        "Action->Dispatcher->Store->View",
+        "Action->Store->Dispatcher->View"
+      ],
+      "answerValue": [],
+      "isAnswer": false,
+      "answer": "Action->Dispatcher->Store->View"
+    },
+    {
+      "id": 4,
+      "questionNo": 5,
+      "question": "React is used mainly for building ................",
+      "options": [
+        "Database",
+        "User interface",
+        "Connectivity",
+        "Design platform",
+        "code optimazation"
+      ],
+      "answerValue": [],
+      "isAnswer": false,
+      "answer": [
+        "User interface",
+        "code optimazation"
+      ]
+    }
+  ],
+  "hindi": [
+    {
+      "id": 0,
+      "questionNo": 1,
+      "question": "निम्नलिखित में से क्या प्रदर्शन बढ़ाने के लिए React.js में उपयोग किया जाता है?",
+      "options": [
+        "मूल डोम",
+        "वर्चुअल डोम",
+        "A और B दोनों।",
+        "इनमे से कोई भी नहीं।"
+      ],
+      "answerValue": [],
+      "isAnswer": false,
+      "answer": "वर्चुअल डोम"
+    },
+    {
+      "id": 1,
+      "questionNo": 2,
+      "question": "रिएक्ट सेटस्टेट () का उपयोग करके आपके द्वारा प्रदान की जाने वाली वस्तु को वर्तमान स्थिति में मिला देता है।",
+      "options": [
+        "सत्य",
+        "असत्य"
+      ],
+      "answerValue": [],
+      "isAnswer": false,
+      "answer": "सत्य"
+    },
+    {
+      "id": 2,
+      "questionNo": 3,
+      "question": "React.js को प्रारंभ में ................ में जारी किया गया था।",
+      "options": [
+        "मई 29,2013",
+        "अप्रैल 29,2013",
+        "29 जून,2013",
+        "मई 29,2014"
+      ],
+      "answerValue": [],
+      "isAnswer": false,
+      "answer": "मई 29,2013"
+    },
+    {
+      "id": 3,
+      "questionNo": 4,
+      "question": "निम्नलिखित में से कौन फ्लक्स अवधारणा का सही डेटा प्रवाह अनुक्रम है?",
+      "options": [
+        "डिस्पैचर-> एक्शन-> स्टोर-> व्यू",
+        "एक्शन-> डिस्पैचर-> व्यू-> स्टोर",
+        "एक्शन-> डिस्पैचर-> स्टोर-> व्यू",
+        "एक्शन-> स्टोर-> डिस्पैचर-> व्यू"
+      ],
+      "answerValue": [],
+      "isAnswer": false,
+      "answer": "एक्शन-> डिस्पैचर-> स्टोर-> व्यू"
+    },
+    {
+      "id": 4,
+      "questionNo": 5,
+      "question": "रिएक्ट मुख्य रूप से निर्माण के लिए प्रयोग किया जाता है ................",
+      "options": [
+        "डेटाबेस",
+        "यूजर इंटरफेस",
+        "कनेक्टिविटी",
+        "डिजाइन प्लेटफॉर्म",
+        "कोड ऑप्टिमाइजेशन"
+      ],
+      "answerValue": [],
+      "isAnswer": false,
+      "answer": [
+        "यूजर इंटरफेस",
+        "कोड ऑप्टिमाइजेशन"
+      ]
+    }
+  ]
+}
